@@ -1,1 +1,5 @@
-# BANKING-C-
+# BANKING-C#
+
+YOUTUBE: https://www.youtube.com/watch?v=YTcJFOAtubg
+
+This is a project about what I did learn in C sharp and what I chose to do with C sharp, I decided to make a small banking project, I've made other banking projects in different codes but this time I've decided to do it different. Rather than asking for inputs of adding or subtracting money and then updating their balance and seeing your balance and then quitting the program, I made it to where you had to log in first, you had to display the correct 16 digit card number, followed by your CVV number and finally followed by your password, just like in the real world example we all have a bank and a CVV number, but we also have pass codes that we log into our accounts, I was able to make it where if it didn't display correctly made you try again, after getting it all of it correct you were able to charge your card and view your balance, I made it to where you couldn't overcharge your balance of what you had in the bank, unfortunately I did not add a deposit. I've solely focused on charge only. Afterwards you're able to exit the program and finish the loops. The Youtube video shows the program that I made which is about 5 minutes long.
